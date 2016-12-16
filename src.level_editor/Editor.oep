@@ -1,0 +1,36 @@
+<project>
+  <name>Rock Rush Classic III</name>
+  <settings>
+    <id>Rock Rush Classic III</id>
+    <bgColor>0x151224</bgColor>
+    <defaultWidth>264</defaultWidth>
+    <defaultHeight>192</defaultHeight>
+    <minWidth>264</minWidth>
+    <minHeight>192</minHeight>
+    <maxWidth>5280</maxWidth>
+    <maxHeight>3840</maxHeight>
+    <workingDirectory>.</workingDirectory>
+  </settings>
+  <tilesets>
+    <tileset name="tiles" image="tileset.png" tileWidth="12" tileHeight="12" paletteScale="2"/>
+  </tilesets>
+  <values>
+    <integer name="crystals" default="0" min="0" max="999" />
+    <boolean name="AmoebaGrows" default="true" />
+    <boolean name="AmoebaRandom" default="true" />
+    <integer name="AmoebaRate" default="40" min="1" max="9999" />
+    <integer name="AmoebaUpperLimit" default="50" min="1" max="9999" />
+    <boolean name="AmoebaAlwaysBoulder" default="false"/>
+    <boolean name="SlimeRandom" default="true" />
+    <integer name="SlimeRate" default="20" min="1" max="9999" />
+    <boolean name="MagicWallCanActivate" default="true"/>
+    <integer name="MagicWallTime" default="20" min="1" max="99999" />
+    <integer name="Time" default="200" min="1" max="999" />
+    <integer name="DiamondPoints" default="10" min="1" max="999" />
+    <integer name="ExtraDiamondPoints" default="50" min="1" max="999" />
+    <integer name="TimePoints" default="5" min="1" max="999" />
+  </values>
+  <layers>
+    <tiles name="level" gridSize="12" tileset="tiles"/>
+  </layers>
+</project>

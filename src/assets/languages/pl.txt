@@ -1,0 +1,263 @@
+﻿# FILLER[[
+#  !"#$%&'()*+,-./0123
+# 456789:;<=>?@ABCDEFG
+# HIJKLMNOPQRSTUVWXYZ[
+# \]^_`abcdefghijklmno
+# pqrstuvwxyz{|}~´ÄÉÖÜ
+# ßáâ?äçé?íó?öúüąćęŁłń
+# Śśźż
+# ]]
+
+key8=Backspace
+key9=Tabulacja
+key13=Enter
+key16=Shift
+key17=Control
+key18=Alt
+key19=Pause/Brk
+key20=Caps Lock
+key27=Escape
+key32=Spacja
+key33=Page Up
+key34=Page Down
+key35=End
+key36=Home
+key37=Lewo
+key38=Góra
+key39=Prawo
+key40=Dół
+key45=Insert
+key46=Delete
+key48=0
+key49=1
+key50=2
+key51=3
+key52=4
+key53=5
+key54=6
+key55=7
+key56=8
+key57=9
+key65=A
+key66=B
+key67=C
+key68=D
+key69=E
+key70=F
+key71=G
+key72=H
+key73=I
+key74=J
+key75=K
+key76=L
+key77=M
+key78=N
+key79=O
+key80=P
+key81=Q
+key82=R
+key83=S
+key84=T
+key85=U
+key86=V
+key87=W
+key88=X
+key89=Y
+key90=Z
+key91=L.Win/Cmd
+key92=P.Win
+key93=Menu
+key96=Num 0
+key97=Num 1
+key98=Num 2
+key99=Num 3
+key100=Num 4
+key101=Num 5
+key102=Num 6
+key103=Num 7
+key104=Num 8
+key105=Num 9
+key106=Num *
+key107=Num +
+key109=Num -
+key110=Num .
+key111=Num /
+key112=F1
+key113=F2
+key114=F3
+key115=F4
+key116=F5
+key117=F6
+key118=F7
+key119=F8
+key120=F9
+key121=F10
+key122=F11
+key123=F12
+key124=F13
+key125=F14
+key126=F15
+key144=Numlock
+key145=Scroll Lock
+key186=;
+key187==
+key188=,
+key189=-
+key190=.
+key191=/
+key192=~
+key219=[
+key220=\
+key221=]
+key222='
+
+keyLeftDesc=Ruch w Lewo
+keyRightDesc=Ruch w Prawo
+keySoundDesc=Wyłącz Dźwięki
+keyMusicDesc=Wyłącz Muzykę
+keySpeed1Desc=Przyśpieszenie x4
+keySpeed2Desc=Przyśpieszenie x16
+keySpeed3Desc=Przyśpieszenie x64
+
+Redefine keys:=Zmiana sterowania:
+keyGrabDesc=Chwytanie
+keyUpDesc=Ruch do Góry
+keyDownDesc=Ruch w Dół
+keyRestartDesc=Powtórz Etap
+
+Options=Opcje
+Credits=Twórcy
+Close=Zamknij
+Level completed=Etap pokonany
+
+Game by=Gra stworzona przez
+RETROCADE.net=RETROCADE.net
+Programming=Programowanie
+Maurycy Zarzycki=Maurycy Zarzycki
+Graphics=Grafika
+Aleksander Kowalczyk=Aleksander Kowalczyk
+Music=Muzyka
+Sound Effects=Dźwięki
+Various Resources=Różne Źródła
+Translations=Tłumaczenie
+EN - Chris Allcock=EN - Chris Allcock
+PL - Maurycy Zarzycki=PL - Maurycy Zarzycki
+selectLevel=Wybierz etap:
+Change Level=Zmień etap
+Game is Paused=Pauza
+Return to Game=Kontynuuj Grę
+Restart=Powtórz Etap
+Return to Title Screen=Wróć do głównego menu
+Pause - Game lost focus=Pauza - Kliknięto poza polem gry
+Click to continue=Kliknij w pole gry by kontynuować
+
+Click loses progress=Wybranie tej opcji///
+    spowoduje utratę aktualnego///
+    stanu rozgrywki.
+
+Level=Etap
+Points=Punkty
+
+scoreView=Proszę czekać... Łączenie!
+scoreSend=Proszę czekać... Wysyłanie wyniku!
+
+Walkthrough=Solucja
+helpTooltip=Otwiera w nowych oknie///
+    angielską solucję do gry.
+selectAdditionalLevelset=Dodatkowe zestawy etapów:
+
+# TEXTS:
+
+hitSpaceToContinue=Wciśnij Spację by kontynuować
+infinite=∞
+lvl1=Jaskinia A
+lvl2=Jaskinia B
+lvl3=Jaskinia C
+lvl4=Jaskinia D
+lvl5=Mini-misja 1
+lvl6=Jaskinia E
+lvl7=Jaskinia F
+lvl8=Jaskinia G
+lvl9=Jaskinia H
+lvl10=Mini-misja 2
+lvl11=Jaskinia I
+lvl12=Jaskinia J
+lvl13=Jaskinia K
+lvl14=Jaskinia L
+lvl15=Mini-misja 3
+lvl16=Jaskinia M
+lvl17=Jaskinia N
+lvl18=Jaskinia O
+lvl19=Jaskinia P
+lvl20=Mini-misja 4
+
+play=Wybierz etap
+retrocadeHomepage=http://retrocade.pl
+walkthroughUrl=http://retrocade.pl/solucje/solucja-rock-rush/
+
+win1=GRATULACJE!
+win2=Mam nadzieję, że podobało ci się///
+    wysadzanie mnie w powietrze tylko po to,///
+    by zebrać kilka idiotycznych diamencików?
+win3=Eh, nie, nie mam nic do Ciebie.///
+    I tak celem mojego życia jest///
+    pomóc Ci spędzić miło czas.
+win4=A skoro o tym mowa:///
+    polecam Ci spróbować innych///
+    zestawów etapów!
+win5=Niektóre sa trudniejsze, inne///
+    łatwiejsze, a część ma nawet nowe,///
+    niespotkane wcześniej elementy!
+win6=I to by było na tyle///
+    Kontynuujcie, obywatelu. Jeszcze///
+    raz gratulacje, i nie omieszkaj zajrzeć///
+    na Retrocade.net po więcej gier!
+winNo=Nie, dzięki.
+winExit=Pa pa.
+Play other levelsets:=Inne zestawy etapów:
+
+Submit=Wyślij swój wynik!
+submitDesc=Wysyła Twój wynik do internetowej///
+    bazy wyników, gdzie możesz konkurować///
+    o pierwsze miejsce!///
+    Twój aktualny wynik to: %%
+
+megahelp=Witaj w Rock Rush! Poruszaj się używając strzałek by zbierać diamenty i dotrzeć do wyjścia.//
+    Kopanie w ziemi jest proste, ale uważaj by nie spadł Ci na głowę głaz ani diament!//
+    Jeżeli przytrzymasz klawisz Z i spróbujesz pójśc w jakąś stronę, to chwić//
+    leżący tam przedmiot lub przekopiesz ziemie nie ruszając się.
+
+redefining=Zmiana klawiszy:
+hitNew=Wciśnij nowy klawisz!
+
+playMoreGames=Więcej naszych gier:
+playNextLevel=Kolejny etap (spacja)
+
+levelCompleted=Punkty: %%
+levelUncompleted=Niepokonany
+levelSeletionScore=%%, %%
+moreLevelsets=Dodatkowe zestawy etapów
+
+levelFinishScoreColumnTitles=Diamenty///^
+                             Ekstra diamenty///^
+                             Pozostały czas///^
+                             W sumie
+
+levelFinishScoreColumnValues=%%///^
+                             %%///^
+                             %%
+
+levelFinishScoreColumnTotalValues=%%///^
+                                  %%///^
+                                  %%///^
+                                  %%
+
+levelFinishScoreColumnX=x///^
+                        x///^
+                        x
+
+levelFinishScoreColumnEquals==///^
+                        =///^
+                        =
+
+choseLanguage=WYBIERZ JĘZYK:

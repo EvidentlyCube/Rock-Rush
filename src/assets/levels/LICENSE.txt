@@ -1,0 +1,3 @@
+Levels are licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
+
+For the exact body of the license please refer to the file LICENSE-LEVELS.txt located in the root of the repository.
