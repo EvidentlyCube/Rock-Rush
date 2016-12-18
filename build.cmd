@@ -23,6 +23,7 @@ REM Regular Release
 	-define+=CF::modeName,\"regular\" ^
 	-define+=CF::debug,false ^
 	-output=bin/RockRush_Regular.swf ^
+	-static-link-runtime-shared-libraries=true ^
 	src\game\global\Preloader.as
 	
 REM Classic I Release
@@ -42,6 +43,7 @@ REM Classic I Release
 	-define+=CF::modeName,\"classic-i\" ^
 	-define+=CF::debug,false ^
 	-output=bin/RockRush_Classic1.swf ^
+	-static-link-runtime-shared-libraries=true ^
 	src\game\global\Preloader.as
 	
 REM Classic II Release
@@ -61,6 +63,7 @@ REM Classic II Release
 	-define+=CF::modeName,\"classic-ii\" ^
 	-define+=CF::debug,false ^
 	-output=bin/RockRush_Classic2.swf ^
+	-static-link-runtime-shared-libraries=true ^
 	src\game\global\Preloader.as
 	
 REM Classic III Release
@@ -80,6 +83,7 @@ REM Classic III Release
 	-define+=CF::modeName,\"classic-iii\" ^
 	-define+=CF::debug,false ^
 	-output=bin/RockRush_Classic3.swf ^
+	-static-link-runtime-shared-libraries=true ^
 	src\game\global\Preloader.as
 	
 REM Undervaults Release
@@ -99,6 +103,7 @@ REM Undervaults Release
 	-define+=CF::modeName,\"undervaults\" ^
 	-define+=CF::debug,false ^
 	-output=bin/RockRush_Undervaults.swf ^
+	-static-link-runtime-shared-libraries=true ^
 	src\game\global\Preloader.as
 	
 	
@@ -122,6 +127,7 @@ REM Regular Debug
 	-define+=CF::modeName,\"regular\" ^
 	-define+=CF::debug,true ^
 	-output=bin/RockRush_Regular_DEBUG.swf ^
+	-static-link-runtime-shared-libraries=true ^
 	-debug=true ^
 	src\game\global\Preloader.as
 	
@@ -143,6 +149,7 @@ REM Classic I Debug
 	-define+=CF::debug,true ^
 	-output=bin/RockRush_Classic1_DEBUG.swf ^
 	-debug=true ^
+	-static-link-runtime-shared-libraries=true ^
 	src\game\global\Preloader.as
 	
 REM Classic II Debug
@@ -163,6 +170,7 @@ REM Classic II Debug
 	-define+=CF::debug,true ^
 	-output=bin/RockRush_Classic2_DEBUG.swf ^
 	-debug=true ^
+	-static-link-runtime-shared-libraries=true ^
 	src\game\global\Preloader.as
 	
 REM Classic III Debug
@@ -183,6 +191,7 @@ REM Classic III Debug
 	-define+=CF::debug,true ^
 	-output=bin/RockRush_Classic3_DEBUG.swf ^
 	-debug=true ^
+	-static-link-runtime-shared-libraries=true ^
 	src\game\global\Preloader.as
 	
 REM Undervaults Debug
@@ -203,5 +212,6 @@ REM Undervaults Debug
 	-define+=CF::debug,true ^
 	-output=bin/RockRush_Undervaults_DEBUG.swf ^
 	-debug=true ^
+	-static-link-runtime-shared-libraries=true ^
 	src\game\global\Preloader.as
 	
