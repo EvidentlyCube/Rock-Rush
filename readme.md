@@ -1,6 +1,6 @@
-![Rock Rush logo](blob/master/.readme/logo.png?raw=true)
+![Rock Rush logo](.readme/logo.png?raw=true)
 
-[![Rock Rush - Screenshot 1](blob/master/.readme/screen1thumb.png?raw=true)](blob/master/.readme/screen1.png?raw=true) [![Rock Rush - Screenshot 2](blob/master/.readme/screen2thumb.png?raw=true)](blob/master/.readme/screen2.png?raw=true) [![Rock Rush - Screenshot 3](blob/master/.readme/screen3thumb.png?raw=true)](blob/master/.readme/screen3.png?raw=true) [![Rock Rush - Screenshot 4](blob/master/.readme/screen4thumb.png?raw=true)](blob/master/.readme/screen4.png?raw=true) [![Rock Rush - Screenshot 5](blob/master/.readme/screen5thumb.png?raw=true)](blob/master/.readme/screen5.png?raw=true)
+[![Rock Rush - Screenshot 1](.readme/screen1thumb.png?raw=true)](.readme/screen1.png?raw=true) [![Rock Rush - Screenshot 2](.readme/screen2thumb.png?raw=true)](.readme/screen2.png?raw=true) [![Rock Rush - Screenshot 3](.readme/screen3thumb.png?raw=true)](.readme/screen3.png?raw=true) [![Rock Rush - Screenshot 4](.readme/screen4thumb.png?raw=true)](.readme/screen4.png?raw=true) [![Rock Rush - Screenshot 5](.readme/screen5thumb.png?raw=true)](.readme/screen5.png?raw=true)
 
 Rock Rush is a clone of the iconic Boulder Dash with a few mechanics inspired taken from the classic Emerald Mine. There are 5 levelsets available, two of which are custom made and the rest are exact copies of the levels of the first 3 installments in the original Boulder Dash.
 
