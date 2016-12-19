@@ -1,3 +1,5 @@
+![Rock Rush logo](https://raw.githubusercontent.com/RetrocadeNet/Rock-Rush/master/.readme/logo.png)
+
 Rock Rush is a clone of the iconic Boulder Dash with a few mechanics inspired taken from the classic Emerald Mine. There are 5 levelsets available, two of which are custom made and the rest are exact copies of the levels of the first 3 installments in the original Boulder Dash.
 
 This repository contains the freely available source code and assets for the game by [Retrocade.net](http://retrocade.net).
