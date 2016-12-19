@@ -1,4 +1,6 @@
-![Rock Rush logo](https://raw.githubusercontent.com/RetrocadeNet/Rock-Rush/master/.readme/logo.png)
+![Rock Rush logo](blob/master/.readme/logo.png?raw=true)
+
+[![Rock Rush - Screenshot 1](blob/master/.readme/screen1thumb.png?raw=true)](blob/master/.readme/screen1.png?raw=true) [![Rock Rush - Screenshot 2](blob/master/.readme/screen2thumb.png?raw=true)](blob/master/.readme/screen2.png?raw=true) [![Rock Rush - Screenshot 3](blob/master/.readme/screen3thumb.png?raw=true)](blob/master/.readme/screen3.png?raw=true) [![Rock Rush - Screenshot 4](blob/master/.readme/screen4thumb.png?raw=true)](blob/master/.readme/screen4.png?raw=true) [![Rock Rush - Screenshot 5](blob/master/.readme/screen5thumb.png?raw=true)](blob/master/.readme/screen5.png?raw=true)
 
 Rock Rush is a clone of the iconic Boulder Dash with a few mechanics inspired taken from the classic Emerald Mine. There are 5 levelsets available, two of which are custom made and the rest are exact copies of the levels of the first 3 installments in the original Boulder Dash.
 
