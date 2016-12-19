@@ -12,7 +12,7 @@ package game.windows {
 	import net.retrocade.retrocamel.locale._;
 
 	public class TWinMessage extends RetrocamelWindowFlash {
-		[Embed(source="/assets/bgs/messageWindow.png")]
+		[Embed(source="/../src.assets/bgs/messageWindow.png")]
 		public static var _gfx_:Class;
 
 		private static var _instance:TWinMessage = new TWinMessage();

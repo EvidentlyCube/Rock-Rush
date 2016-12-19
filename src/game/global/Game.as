@@ -14,7 +14,7 @@ package game.global {
 	import net.retrocade.retrocamel.global.RetrocamelSimpleSave;
 
 	public class Game {
-		[Embed(source="/assets/music/music2.mp3")]
+		[Embed(source="/../src.music/music2.mp3")]
 		public static var _music_:Class;
 
 

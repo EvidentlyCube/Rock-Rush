@@ -15,9 +15,9 @@ package game.global {
 	import net.retrocade.retrocamel.locale._;
 
 	public class Options extends Sprite {
-		[Embed(source='/assets/global/music.png')]
+		[Embed(source='/../src.assets/global/music.png')]
 		private var _gfx_music_:Class;
-		[Embed(source='/assets/global/sfx.png')]
+		[Embed(source='/../src.assets/global/sfx.png')]
 		private var _gfx_sfx_:Class;
 
 		private var _iconMusic:Bitmap;

@@ -6,9 +6,9 @@ package game.objects {
 	import net.retrocade.retrocamel.global.RetrocamelSimpleSave;
 
 	public class TEscButton extends RetrocamelUpdatableObject {
-		[Embed(source="/assets/global/esc_00.png")]
+		[Embed(source="/../src.assets/global/esc_00.png")]
 		public static var _key_0_:Class;
-		[Embed(source="/assets/global/esc_01.png")]
+		[Embed(source="/../src.assets/global/esc_01.png")]
 		public static var _key_1_:Class;
 		private static var _instance:TEscButton = new TEscButton();
 

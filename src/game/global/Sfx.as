@@ -3,61 +3,61 @@ package game.global {
 	import net.retrocade.sfxr.SfxrSynth;
 
 	public class Sfx {
-		[Embed(source="/assets/sfx/diamond1.mp3")]
+		[Embed(source="/../src.assets/sfx/diamond1.mp3")]
 		private static var _diamond1:Class;
-		[Embed(source="/assets/sfx/diamond2.mp3")]
+		[Embed(source="/../src.assets/sfx/diamond2.mp3")]
 		private static var _diamond2:Class;
-		[Embed(source="/assets/sfx/diamond3.mp3")]
+		[Embed(source="/../src.assets/sfx/diamond3.mp3")]
 		private static var _diamond3:Class;
-		[Embed(source="/assets/sfx/diamond4.mp3")]
+		[Embed(source="/../src.assets/sfx/diamond4.mp3")]
 		private static var _diamond4:Class;
-		[Embed(source="/assets/sfx/diamond5.mp3")]
+		[Embed(source="/../src.assets/sfx/diamond5.mp3")]
 		private static var _diamond5:Class;
-		[Embed(source="/assets/sfx/diamond6.mp3")]
+		[Embed(source="/../src.assets/sfx/diamond6.mp3")]
 		private static var _diamond6:Class;
-		[Embed(source="/assets/sfx/diamond7.mp3")]
+		[Embed(source="/../src.assets/sfx/diamond7.mp3")]
 		private static var _diamond7:Class;
-		[Embed(source="/assets/sfx/diamond8.mp3")]
+		[Embed(source="/../src.assets/sfx/diamond8.mp3")]
 		private static var _diamond8:Class;
 
-		[Embed(source="/assets/sfx/collect1.mp3")]
+		[Embed(source="/../src.assets/sfx/collect1.mp3")]
 		private static var _collect1:Class;
-		[Embed(source="/assets/sfx/collect2.mp3")]
+		[Embed(source="/../src.assets/sfx/collect2.mp3")]
 		private static var _collect2:Class;
-		[Embed(source="/assets/sfx/collect3.mp3")]
+		[Embed(source="/../src.assets/sfx/collect3.mp3")]
 		private static var _collect3:Class;
 
-		[Embed(source="/assets/sfx/boulder1.mp3")]
+		[Embed(source="/../src.assets/sfx/boulder1.mp3")]
 		private static var _boulder1:Class;
-		[Embed(source="/assets/sfx/boulder2.mp3")]
+		[Embed(source="/../src.assets/sfx/boulder2.mp3")]
 		private static var _boulder2:Class;
-		[Embed(source="/assets/sfx/boulder3.mp3")]
+		[Embed(source="/../src.assets/sfx/boulder3.mp3")]
 		private static var _boulder3:Class;
-		[Embed(source="/assets/sfx/boulder4.mp3")]
+		[Embed(source="/../src.assets/sfx/boulder4.mp3")]
 		private static var _boulder4:Class;
 
-		[Embed(source="/assets/sfx/amoeba1.mp3")]
+		[Embed(source="/../src.assets/sfx/amoeba1.mp3")]
 		private static var _amoeba1:Class;
-		[Embed(source="/assets/sfx/amoeba2.mp3")]
+		[Embed(source="/../src.assets/sfx/amoeba2.mp3")]
 		private static var _amoeba2:Class;
-		[Embed(source="/assets/sfx/amoeba3.mp3")]
+		[Embed(source="/../src.assets/sfx/amoeba3.mp3")]
 		private static var _amoeba3:Class;
-		[Embed(source="/assets/sfx/amoeba4.mp3")]
+		[Embed(source="/../src.assets/sfx/amoeba4.mp3")]
 		private static var _amoeba4:Class;
-		[Embed(source="/assets/sfx/amoeba5.mp3")]
+		[Embed(source="/../src.assets/sfx/amoeba5.mp3")]
 		private static var _amoeba5:Class;
 
-		[Embed(source="/assets/sfx/explosion.mp3")]
+		[Embed(source="/../src.assets/sfx/explosion.mp3")]
 		public static var explosion:Class;
-		[Embed(source="/assets/sfx/door.mp3")]
+		[Embed(source="/../src.assets/sfx/door.mp3")]
 		public static var door:Class;
-		[Embed(source="/assets/sfx/boulderPush.mp3")]
+		[Embed(source="/../src.assets/sfx/boulderPush.mp3")]
 		public static var boulderPush:Class;
-		[Embed(source="/assets/sfx/wallGrow.mp3")]
+		[Embed(source="/../src.assets/sfx/wallGrow.mp3")]
 		public static var wallGrow:Class;
-		[Embed(source="/assets/sfx/magicWall.mp3")]
+		[Embed(source="/../src.assets/sfx/magicWall.mp3")]
 		public static var magicWall:Class;
-		[Embed(source="/assets/sfx/exitOpened.mp3")]
+		[Embed(source="/../src.assets/sfx/exitOpened.mp3")]
 		public static var exitOpened:Class;
 
 

@@ -13,56 +13,56 @@ package game.global.pre {
 
 	public class PreData {
 
-		[Embed(source='/assets/languages/en.txt', mimeType='application/octet-stream')]
+		[Embed(source='/../src.assets/languages/en.txt', mimeType='application/octet-stream')]
 		private static var _lang_en_core_:Class;
-		[Embed(source='/assets/languages/pl.txt', mimeType='application/octet-stream')]
+		[Embed(source='/../src.assets/languages/pl.txt', mimeType='application/octet-stream')]
 		private static var _lang_pl_core_:Class;
 
 		CF::modeRegular{
-			[Embed(source='/assets/languages/en_regular.txt', mimeType='application/octet-stream')]
+			[Embed(source='/../src.assets/languages/en_regular.txt', mimeType='application/octet-stream')]
 			private static var _lang_en_regular_:Class;
-			[Embed(source='/assets/languages/pl_regular.txt', mimeType='application/octet-stream')]
+			[Embed(source='/../src.assets/languages/pl_regular.txt', mimeType='application/octet-stream')]
 			private static var _lang_pl_regular_:Class;
 		}
 
 		CF::modeClassic1{
-			[Embed(source='/assets/languages/en_classic_i.txt', mimeType='application/octet-stream')]
+			[Embed(source='/../src.assets/languages/en_classic_i.txt', mimeType='application/octet-stream')]
 			private static var _lang_en_classic_i_:Class;
-			[Embed(source='/assets/languages/pl_classic_i.txt', mimeType='application/octet-stream')]
+			[Embed(source='/../src.assets/languages/pl_classic_i.txt', mimeType='application/octet-stream')]
 			private static var _lang_pl_classic_i_:Class;
 		}
 
 		CF::modeClassic2{
-			[Embed(source='/assets/languages/en_classic_ii.txt', mimeType='application/octet-stream')]
+			[Embed(source='/../src.assets/languages/en_classic_ii.txt', mimeType='application/octet-stream')]
 			private static var _lang_en_classic_ii_:Class;
-			[Embed(source='/assets/languages/pl_classic_ii.txt', mimeType='application/octet-stream')]
+			[Embed(source='/../src.assets/languages/pl_classic_ii.txt', mimeType='application/octet-stream')]
 			private static var _lang_pl_classic_ii_:Class;
 		}
 
 		CF::modeClassic3{
-			[Embed(source='/assets/languages/en_classic_iii.txt', mimeType='application/octet-stream')]
+			[Embed(source='/../src.assets/languages/en_classic_iii.txt', mimeType='application/octet-stream')]
 			private static var _lang_en_classic_iii_:Class;
-			[Embed(source='/assets/languages/pl_classic_iii.txt', mimeType='application/octet-stream')]
+			[Embed(source='/../src.assets/languages/pl_classic_iii.txt', mimeType='application/octet-stream')]
 			private static var _lang_pl_classic_iii_:Class;
 		}
 
 		CF::modeUndervaults{
-			[Embed(source='/assets/languages/en_undervaults.txt', mimeType='application/octet-stream')]
+			[Embed(source='/../src.assets/languages/en_undervaults.txt', mimeType='application/octet-stream')]
 			private static var _lang_en_undervaults_:Class;
-			[Embed(source='/assets/languages/pl_undervaults.txt', mimeType='application/octet-stream')]
+			[Embed(source='/../src.assets/languages/pl_undervaults.txt', mimeType='application/octet-stream')]
 			private static var _lang_pl_undervaults_:Class;
 		}
 
-		[Embed(source="/assets/global/font.png", mimeType="image/png")]
+		[Embed(source="/../src.assets/global/font.png", mimeType="image/png")]
 		private static var _font_:Class;
-		[Embed(source="/assets/global/c64font.png", mimeType="image/png")]
+		[Embed(source="/../src.assets/global/c64font.png", mimeType="image/png")]
 		private static var _font_c64_:Class;
 
-		[Embed(source='/assets/bgs/tooltipSystem.png')]
+		[Embed(source='/../src.assets/bgs/tooltipSystem.png')]
 		private static var _tooltipSystem:Class;
-		[Embed(source='/assets/bgs/buttonSystem.png')]
+		[Embed(source='/../src.assets/bgs/buttonSystem.png')]
 		private static var _buttonBgSystem_:Class;
-		[Embed(source='/assets/bgs/windowSystem.png')]
+		[Embed(source='/../src.assets/bgs/windowSystem.png')]
 		private static var _windowSystem_:Class;
 
 		public static function loadLanguageFiles():void {

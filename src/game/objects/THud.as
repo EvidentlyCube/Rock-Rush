@@ -18,7 +18,7 @@ package game.objects {
 	 * @author
 	 */
 	public class THud extends RetrocamelUpdatableObject {
-		[Embed(source="/assets/bgs/hud.png")]
+		[Embed(source="/../src.assets/bgs/hud.png")]
 		public static var _bg_:Class;
 		private static var _instance:THud = new THud;
 

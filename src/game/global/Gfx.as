@@ -13,21 +13,21 @@ package game.global {
 
 	public class Gfx {
 
-		[Embed(source="/assets/tiles/tileset.png", mimeType="image/png")]
+		[Embed(source="/../src.assets/tiles/tileset.png", mimeType="image/png")]
 		private static var _tileset_:Class;
-		[Embed(source='/assets/bgs/backgroundTitleScreen.png', mimeType="image/png")]
+		[Embed(source='/../src.assets/bgs/backgroundTitleScreen.png', mimeType="image/png")]
 		private static var _background_titleScreen_:Class;
-		[Embed(source='/assets/bgs/backgroundIngame.png', mimeType="image/png")]
+		[Embed(source='/../src.assets/bgs/backgroundIngame.png', mimeType="image/png")]
 		private static var _background_ingame_:Class;
-		[Embed(source="/assets/bgs/logo_regular.png")]
+		[Embed(source="/../src.assets/bgs/logo_regular.png")]
 		private static var _logo_regular_:Class;
-		[Embed(source="/assets/bgs/logo_classic_i.png")]
+		[Embed(source="/../src.assets/bgs/logo_classic_i.png")]
 		private static var _logo_classic_i_:Class;
-		[Embed(source="/assets/bgs/logo_classic_ii.png")]
+		[Embed(source="/../src.assets/bgs/logo_classic_ii.png")]
 		private static var _logo_classic_ii_:Class;
-		[Embed(source="/assets/bgs/logo_classic_iii.png")]
+		[Embed(source="/../src.assets/bgs/logo_classic_iii.png")]
 		private static var _logo_classic_iii_:Class;
-		[Embed(source="/assets/bgs/logo_undervaults.png")]
+		[Embed(source="/../src.assets/bgs/logo_undervaults.png")]
 		private static var _logo_undervaults_:Class;
 
 		public static function get tilesetClass():Class {
